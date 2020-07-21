@@ -1,0 +1,16 @@
+{
+  "name": "assignment.1",
+  "version": "1.0.0",
+  "description": "assignment 1 of bootstrap",
+  "main": "aboutus.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pankaj Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
